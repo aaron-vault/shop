@@ -1,0 +1,216 @@
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\ApplicationInsights.config
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Shop.dll.config
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Shop.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Shop.pdb
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\csc.exe
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\csc.exe.config
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\csc.rsp
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\csi.exe
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\csi.exe.config
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\csi.rsp
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.AppContext.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.Console.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\vbc.exe
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\vbc.exe.config
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\vbc.rsp
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Antlr3.Runtime.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\EntityFramework.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Microsoft.AI.Web.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\MySql.Data.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Newtonsoft.Json.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\System.Web.Helpers.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\System.Web.Mvc.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\System.Web.Optimization.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\System.Web.Razor.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\System.Web.WebPages.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\WebGrease.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\EntityFramework.xml
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\MySql.Data.xml
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\MySql.Data.Entity.EF6.xml
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\System.Web.Helpers.xml
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\System.Web.Mvc.xml
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\System.Web.Optimization.xml
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\System.Web.Razor.xml
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\System.Web.WebPages.xml
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Newtonsoft.Json.xml
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Antlr3.Runtime.pdb
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Microsoft.AI.Web.xml
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\Yuriy\source\repos\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Yuriy\source\repos\Shop\Shop\obj\Debug\Shop.csproj.CopyComplete
+C:\Users\Yuriy\source\repos\Shop\Shop\obj\Debug\Shop.dll
+C:\Users\Yuriy\source\repos\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\ApplicationInsights.config
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Shop.dll.config
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Shop.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Shop.pdb
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\csc.exe
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\csc.exe.config
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\csc.rsp
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\csi.exe
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\csi.exe.config
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\csi.rsp
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.AppContext.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.Console.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.IO.Compression.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.Security.Claims.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.Threading.Thread.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.ValueTuple.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\vbc.exe
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\vbc.exe.config
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\vbc.rsp
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Antlr3.Runtime.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\EntityFramework.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Microsoft.AI.Web.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Microsoft.ApplicationInsights.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\MySql.Data.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\MySql.Data.Entity.EF6.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Newtonsoft.Json.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\System.Web.Helpers.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\System.Web.Mvc.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\System.Web.Optimization.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\System.Web.Razor.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\System.Web.WebPages.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\System.Web.WebPages.Razor.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\WebGrease.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\EntityFramework.xml
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\MySql.Data.xml
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\MySql.Data.Entity.EF6.xml
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\System.Web.Helpers.xml
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\System.Web.Mvc.xml
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\System.Web.Optimization.xml
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\System.Web.Razor.xml
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\System.Web.WebPages.xml
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\System.Web.WebPages.Razor.xml
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Newtonsoft.Json.xml
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Antlr3.Runtime.pdb
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Microsoft.AI.Web.xml
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\ru\System.Web.Razor.resources.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\obj\Debug\Shop.csproj.CopyComplete
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\obj\Debug\Shop.dll
+C:\Users\erokhinya\Documents\Visual Studio 2017\Projects\Shop\Shop\obj\Debug\Shop.pdb

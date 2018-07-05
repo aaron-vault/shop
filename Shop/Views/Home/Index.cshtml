@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Shop.Models.Product>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Shop</h1>
+</div>
+
+<div class="row">
+    @Html.ActionLink("Добавить новый", "Index", "Product")
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Наименование продукта</th>
+                <th>Стоимость</th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in Model)
+            {
+                <tr>
+                    <td>@p.Id</td>
+                    <td>@p.Title</td>
+                    <td>@p.Price</td>
+                    <!--<td><a href="/Details/@p.Id">Details</a></td>-->
+                    <td><a href="@Url.Action("Details", "Product", new { id = p.Id })">Подробнее</a></td>
+                    <td><a href="@Url.Action("Edit", "Product", new { id = p.Id })">Редактировать</a></td>
+                    <td><a href="@Url.Action("Delete", "Product", new { id = p.Id })">Удалить</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

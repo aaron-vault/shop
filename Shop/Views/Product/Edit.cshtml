@@ -1,0 +1,19 @@
+﻿@model Shop.Models.Product
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Редактирование</h2>
+
+<form action="@Url.Action("EditProduct", "Product", new { id = Model.Id })" method="post">
+    @Html.AntiForgeryToken()
+    <div class="form-group">
+        <label for="title">Title</label>
+        <input type="text" name="title" id="title" class="form-control" value="@Model.Title" />
+    </div>
+    <div class="form-group">
+        <label for="price">Price</label>
+        <input type="text" name="price" id="price" class="form-control" value="@Model.Price" />
+    </div>
+    <button type="submit" class="btn btn-primary">Сохранить</button>
+</form>
